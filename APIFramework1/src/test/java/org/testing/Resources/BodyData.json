@@ -1,0 +1,8 @@
+{
+"firstname": "{{fname}}",
+    "lastname": "singh",
+    "id": "{{idvalue}}",
+    "age": "12",
+    "company": "abc ltd."
+    }
+    

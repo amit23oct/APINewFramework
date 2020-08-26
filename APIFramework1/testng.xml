@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.testing.TestScripts.InsertNewKeyData"/>
+      <class name="org.testing.TestScripts.DeleteReq"/>
+      <class name="org.testing.TestScripts.PostRequestTC"/>
+      <class name="org.testing.TestScripts.GetRequest"/>
+      <class name="org.testing.TestScripts.UpdateData"/>
+      <class name="org.testing.TestScripts.GetAllData"/>
+      <class name="org.testing.TestScripts.PutReqTC5"/>
+      <class name="org.testing.TestScripts.GetPerticularData"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
